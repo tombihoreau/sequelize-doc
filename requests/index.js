@@ -3,7 +3,7 @@
 
 //Import the sequelize library
 const { QueryTypes } = require('sequelize');
-
+const sequelize = require('./db');
 
 /* 3 cas d'utilisations des requetes préparés */
 
