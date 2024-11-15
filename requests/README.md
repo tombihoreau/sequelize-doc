@@ -11,3 +11,6 @@ Si un objet est transmis, :key il sera remplacé par les clés de cet objet. Si 
 # Liens utiles
 https://sequelize.org/docs/v6/core-concepts/raw-queries/
 https://johackim.com/sequelize?utm_source=rss&utm_medium=rss
+
+
+
