@@ -1,4 +1,4 @@
-Comment faire des requêtes préparées
+# Comment faire des requêtes préparées
 
 Réussir à faire des requêtes SQL dans sequelize
 Exemple dans le fichier index.js du dossier requests
@@ -8,6 +8,6 @@ Les remplacements dans une requête peuvent être effectués de deux manières d
 Si un tableau est passé, ? il sera remplacé dans l'ordre dans lequel il apparaît dans le tableau
 Si un objet est transmis, :key il sera remplacé par les clés de cet objet. Si l'objet contient des clés non trouvées dans la requête ou vice versa, une exception sera levée.
 
-Liens utiles
+# Liens utiles
 https://sequelize.org/docs/v6/core-concepts/raw-queries/
 https://johackim.com/sequelize?utm_source=rss&utm_medium=rss
